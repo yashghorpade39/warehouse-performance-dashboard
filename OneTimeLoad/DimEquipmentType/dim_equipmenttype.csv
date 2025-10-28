@@ -1,0 +1,8 @@
+EquipmentTypeID,TypeName,MaxCapacity,AutomationLevel
+1,Conveyor Systems,2175,Semi-Automated
+2,Automated Sorters,2573,Manual
+3,Lifting Equipment,4467,Manual
+4,Robotics,2513,Semi-Automated
+5,Packaging Machines,2773,Fully Automated
+6,Scanning Devices,4134,Fully Automated
+7,Weighing Systems,2068,Semi-Automated

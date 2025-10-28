@@ -1,0 +1,101 @@
+WarehouseID,WarehouseName,WarehouseType,OpenDate,Address,City,State,Country,Region,ManagerName
+1,Shimmer Marvels,Regional Facility,2024-05-23,702 Joshua Orchard Brownland  PR 61958,Mooreton,Rhode Island,United States,Northeast,Colleen Manning
+2,Classy Deals,Distribution Center,2017-08-15,499 Kimberly Well Bowmanland  ND 72005,Mcgeeside,Florida,United States,South,Marco Weeks
+3,Modern Essentials,Distribution Center,2023-08-30,0740 Michael Glens Apt. 322 Websterview  AK 22374,Port Joel,New Hampshire,United States,Northeast,Steven Strong
+4,Purely Sanctuary,Distribution Center,2018-06-05,318 Lewis Lakes Gonzalezland  MO 05941,Davidshire,Hawaii,United States,West,Edward Sellers
+5,Purely Shop,Distribution Center,2016-11-08,73287 Shelby Islands South Leslie  OH 42424,New Jack,Tennessee,United States,South,Valerie Norris
+6,Luxe Oasis,Distribution Center,2016-10-27,0050 Sanders Ferry Suite 582 East Laurenchester  GU 28735,Port Isabellaton,Mississippi,United States,South,Michael Vargas
+7,Purely Perfection,Fulfillment Center,2019-08-12,2702 Anthony Hollow Anneville  MD 43199,Ryanfort,South Dakota,United States,Midwest,Thomas Schmitt
+8,Golden Oasis,Sorting Hub,2023-12-14,Unit 4156 Box 2188 DPO AE 01974,Hendrixstad,North Dakota,United States,Midwest,Stephanie Willis
+9,Happy Reflections,Regional Facility,2019-10-21,732 Holly Lake Suite 684 East Alexandrastad  AS 02936,Nguyenfurt,North Dakota,United States,Midwest,Christopher Rodriguez MD
+10,Eclectic Finds,Regional Facility,2020-05-30,746 Harris Lakes Joshuatown  HI 89802,Jillland,Maine,United States,Northeast,Crystal Ruiz
+11,Vintage Elegance,Distribution Center,2021-05-11,43951 Clark Forks Apt. 117 New Louiston  HI 80077,South Melanie,Montana,United States,West,John Brock
+12,Eclectic Corner,Distribution Center,2019-08-13,Unit 6915 Box 2262 DPO AE 92521,Port Hollyville,Colorado,United States,West,Mindy Navarro
+13,Timeless Corner,Fulfillment Center,2017-03-11,3131 Mason Locks Apt. 834 West Cindymouth  MA 24881,West Shannon,Montana,United States,West,Nicole Graham PhD
+14,Artisan Boutique,Distribution Center,2020-01-05,3682 Cathy Wall East Paige  NJ 50368,Villegaston,Mississippi,United States,South,Lynn Anderson
+15,Trendy Shop,Sorting Hub,2016-02-27,558 Paula Valleys Hernandezmouth  MO 34440,Johnmouth,Iowa,United States,Midwest,Aaron Duncan
+16,Enchanted Marketplace,Regional Facility,2016-02-11,5496 Macdonald Centers Suite 033 East Lisaland  TN 15010,Kristyburgh,North Dakota,United States,Midwest,Madison Wolf
+17,Enchanted Loft,Fulfillment Center,2024-04-06,PSC 5295  Box 4069 APO AP 68454,Ryanbury,Massachusetts,United States,Northeast,Gabriel Mills
+18,Stylish Treasures,Distribution Center,2016-02-14,003 Kristen Lights Robinsonton  OK 44634,New Christopher,Kansas,United States,Midwest,Erin Walsh
+19,Rustic Reflections,Sorting Hub,2018-04-05,942 Scott Viaduct Suite 284 New Michael  FL 07852,East Dwayne,Arizona,United States,West,April Lambert
+20,Stylish Avenue,Distribution Center,2016-11-25,64753 Lisa Mount Johnport  PR 04909,North Morgan,Connecticut,United States,Northeast,Carl Valenzuela
+21,Rustic Finds,Sorting Hub,2016-06-18,2780 Manuel Landing Lake Josephside  RI 88736,North Brittany,Pennsylvania,United States,Northeast,Andre Miller
+22,Shimmer Sanctuary,Sorting Hub,2019-01-16,103 Jared Station Apt. 755 Markfort  MH 41460,North Sandraton,Pennsylvania,United States,Northeast,Angela Benitez
+23,Vintage Reflections,Regional Facility,2025-06-06,PSC 0671  Box 4454 APO AA 26967,Craigchester,Pennsylvania,United States,Northeast,Brittney Carter
+24,Harmony Elegance,Fulfillment Center,2020-07-24,8335 Haynes Junctions Port Williamborough  NY 95722,North Brianside,Oklahoma,United States,South,Laura Wright
+25,Dapper Perfection,Distribution Center,2020-11-22,313 Timothy Plaza East Corey  VA 01606,Lake Bryan,Massachusetts,United States,Northeast,Brandon Knight
+26,Timeless Oasis,Distribution Center,2024-01-12,PSC 2682  Box 4698 APO AP 70043,Coxfurt,Utah,United States,West,Aimee Boyd
+27,Golden Elegance,Sorting Hub,2018-04-18,63477 Samuel Orchard Suite 154 Fosterchester  MP 31945,Joshuahaven,Michigan,United States,Midwest,Mrs. Michelle Scott DDS
+28,Timeless Shop,Distribution Center,2017-06-27,540 Oscar Loop Williamborough  OH 14634,Rachelton,Mississippi,United States,South,Amy Carlson
+29,Blissful Oasis,Distribution Center,2018-10-02,3729 Cummings Ports Suite 751 Brianville  VI 11842,North Valeriechester,Delaware,United States,South,Jonathan Johnson
+30,Urban Shop,Regional Facility,2017-11-20,90307 Brown Hollow North Nicholas  WA 59671,Leebury,Wisconsin,United States,Midwest,Cassie Ryan MD
+31,Golden Vault,Fulfillment Center,2022-12-31,6284 Kevin Pines Swansonmouth  ID 55684,North Ryanfort,Nevada,United States,West,Michele Joseph
+32,Unique Marketplace,Distribution Center,2017-09-18,982 Danielle Station Apt. 881 Franklinburgh  OK 02789,New Laurenville,Rhode Island,United States,Northeast,Thomas Johnson
+33,Unique Finds,Regional Facility,2016-06-02,0922 Bradley Drive New Kevinville  FM 58921,Hooverfurt,South Dakota,United States,Midwest,Amanda Peterson
+34,Artisan Boutique,Regional Facility,2025-08-11,38739 Toni Trafficway Colemanmouth  NE 24632,Lake Kyleview,Missouri,United States,Midwest,John Waters
+35,Artisan Avenue,Distribution Center,2018-09-01,7655 Paige Villages East Kellymouth  FM 15549,South Terri,Nebraska,United States,Midwest,Peter Hall
+36,Chic Oasis,Sorting Hub,2016-10-09,130 Patricia Orchard Suite 150 Lake Patricia  KY 29143,Port Kristine,Kentucky,United States,South,Stephen Robertson
+37,Classy Hub,Regional Facility,2025-09-22,1593 Scott Road Suite 047 Matthewmouth  FL 20118,Port Stacyport,Maryland,United States,South,Stephanie Weaver
+38,Stylish Closet,Distribution Center,2019-07-12,922 Leslie Hollow Edwardville  AZ 94887,Port Kimberly,Nebraska,United States,Midwest,Mrs. Jessica Nelson
+39,Whimsy Corner,Distribution Center,2019-03-27,3326 Rhonda Manor North Nathan  UT 32693,Port Micheal,Nebraska,United States,Midwest,Zachary Norton
+40,Classy Shoppe,Regional Facility,2019-06-22,7606 Julie Radial Suite 847 Chadhaven  CT 60744,West Johnny,Minnesota,United States,Midwest,Craig Beard
+41,Elegant Vault,Sorting Hub,2023-03-06,88712 Derrick Point Suite 363 North Kevin  NE 55000,South Charlesfort,South Dakota,United States,Midwest,James Hull
+42,Happy Cabinet,Distribution Center,2023-03-19,USNS Lloyd FPO AA 30374,Barbaraport,Arizona,United States,West,Stephanie Kelly
+43,Artisan Corner,Regional Facility,2025-09-06,84222 Megan Mills Hendrixville  RI 24639,New Amanda,Montana,United States,West,John Johnson
+44,Vintage Corner,Sorting Hub,2025-08-30,6783 Todd Squares Suite 708 Melissashire  WA 51685,Lake Kellyville,Wyoming,United States,West,Wendy Stevens
+45,Trendy Shoppe,Regional Facility,2018-06-04,Unit 5428 Box 0251 DPO AP 53854,Martinside,Maryland,United States,South,Kyle Murray
+46,Serene Merchant,Regional Facility,2016-06-12,89207 Scott Squares Kevinhaven  NJ 16629,Nicoleborough,Wisconsin,United States,Midwest,David Esparza
+47,Vintage Sanctuary,Fulfillment Center,2018-05-28,470 Barry Station Richardview  OH 17853,South Charlesmouth,Tennessee,United States,South,Haley Myers
+48,Vintage Shop,Distribution Center,2024-05-31,02626 Andrew Run Nathanfurt  FL 46987,Edwardbury,Florida,United States,South,Jennifer Turner
+49,Polished Treasures,Fulfillment Center,2025-04-05,442 Matthew Terrace Chadborough  AL 02453,Yoderstad,New Jersey,United States,Northeast,Valerie Morgan
+50,Artisan Marvels,Regional Facility,2023-02-22,444 Michael Glen Sandraton  ME 16830,New Jared,Maine,United States,Northeast,Ryan Houston
+51,Trendy Perfection,Regional Facility,2022-11-19,172 Morgan Via Apt. 781 Jonathantown  MA 47566,Normaton,Maine,United States,Northeast,Katie Moore
+52,Timeless Quest,Fulfillment Center,2020-01-07,6208 Thompson Mews Changmouth  AL 65841,Fischerfort,Nevada,United States,West,Daniel Brown
+53,Stylish Avenue,Distribution Center,2025-05-02,97776 Larson Divide Apt. 851 East Stephen  TX 79370,Smithtown,Iowa,United States,Midwest,Emily Wheeler
+54,Shimmer Loft,Distribution Center,2019-05-14,USS Wilson FPO AA 21758,South Robert,Tennessee,United States,South,Susan Sanchez
+55,Rustic Vault,Sorting Hub,2021-07-06,USS Powell FPO AA 69425,Petersonchester,Maine,United States,Northeast,Robert Smith
+56,Blissful Oasis,Fulfillment Center,2020-08-04,42021 Merritt Via East Stevenland  VT 01075,Howardtown,New York,United States,Northeast,Carol Morgan
+57,Elegant Avenue,Distribution Center,2019-06-30,726 Bowen Common Suite 131 Jasminebury  NV 48950,Phambury,South Dakota,United States,Midwest,Brandon Hart
+58,Stylish Creations,Fulfillment Center,2016-11-15,9131 Johnson Skyway Port Johnside  TN 27771,Deniseton,Delaware,United States,South,Eric Hernandez
+59,Unique Deals,Fulfillment Center,2018-02-05,5227 Jessica Burgs New Timothy  VI 21949,Lake Kimberlyberg,New York,United States,Northeast,Heather Dunn
+60,Urban Nook,Fulfillment Center,2016-03-21,15463 Le Mountains Apt. 529 Frankfurt  PA 56850,Lake Jorge,Nevada,United States,West,Joseph Johnson
+61,Eclectic Finds,Sorting Hub,2019-08-25,222 Patrick Falls Port Clifford  IN 83028,Deantown,Mississippi,United States,South,Judy Allison
+62,Trendy Creations,Fulfillment Center,2025-07-14,PSC 7865  Box 2533 APO AP 92236,Philliptown,Kansas,United States,Midwest,Rachel Blackburn
+63,Serene Loft,Distribution Center,2016-03-24,467 Michael Extensions Suite 738 West Tylerhaven  TX 32062,South Doris,Kentucky,United States,South,David Burns
+64,Stylish Treasures,Distribution Center,2020-05-18,7499 Jessica Harbor Alexton  SD 73272,New Deniseside,Indiana,United States,Midwest,Christine Short
+65,Urban Reflections,Sorting Hub,2023-08-24,8078 Brett Via Timothyside  CT 97902,Donaldfort,Montana,United States,West,Mark Fletcher
+66,Luxe Corner,Distribution Center,2019-03-17,656 Johnson Mills Suite 560 Kimtown  WY 74981,East Michelleburgh,Arkansas,United States,South,John Allen
+67,Trendy Perfection,Sorting Hub,2022-09-01,89875 Sherri Passage Suite 291 Thompsonland  VA 29700,Matthewmouth,Minnesota,United States,Midwest,Gregory Estrada
+68,Timeless Shop,Distribution Center,2019-08-03,952 Monroe Tunnel Apt. 773 West Randy  MD 18896,East Jonathan,Texas,United States,South,Jose Valentine
+69,Shimmer Finds,Sorting Hub,2025-04-14,98757 Sierra Parkway Roberthaven  NM 47699,East Dana,Wisconsin,United States,Midwest,Kristi Thomas
+70,Classy Deals,Distribution Center,2025-03-01,03589 Robinson Circle Popeside  PW 45171,Harrisbury,California,United States,West,Kathleen Snow
+71,Timeless Boutique,Distribution Center,2025-06-08,90763 Shaun Spurs Suite 329 Tammiefurt  WA 25932,Smithberg,Texas,United States,South,Chelsea Nelson
+72,Vintage Shoppe,Sorting Hub,2025-03-26,21102 Sergio Locks Apt. 298 South Sheilamouth  GA 44573,East Johnny,Delaware,United States,South,Diana Phillips
+73,Luxe Vault,Fulfillment Center,2024-10-08,27664 Eddie Trail Suite 008 Smithbury  NJ 09725,North Ryan,Utah,United States,West,Carlos Patterson
+74,Purely Emporium,Regional Facility,2024-11-27,48865 Jason Crossroad Apt. 130 Charlesview  OK 33739,Port Nicholasland,Kentucky,United States,South,Dr. Timothy Johnson
+75,Modern Essentials,Fulfillment Center,2017-03-04,2030 Robert Avenue Manningview  LA 37084,Port Kim,Wisconsin,United States,Midwest,Christine Morton
+76,Urban Perfection,Regional Facility,2023-08-06,6412 Kristine Island East Kariview  SC 61294,Ortizfurt,New Hampshire,United States,Northeast,Jennifer Sandoval
+77,Shimmer Creations,Fulfillment Center,2022-09-14,4321 Lester Villages Lake Ashleyberg  MN 76126,Lake Coreyport,North Carolina,United States,South,Jamie Hooper
+78,Serene Shoppe,Distribution Center,2020-09-23,27754 Daniel Turnpike South Eric  WV 06229,Riveraview,Mississippi,United States,South,Tina Green
+79,Urban Emporium,Sorting Hub,2022-11-12,7504 Valenzuela Rest South John  MA 35876,Soniabury,Kansas,United States,Midwest,Jennifer Hernandez
+80,Trendy Oasis,Distribution Center,2015-11-04,50217 Ewing Fields East Edward  ID 10992,Kristinside,Indiana,United States,Midwest,Janet Gomez
+81,Dapper Loft,Regional Facility,2017-04-21,45566 Cook Groves East Tinaborough  ID 80933,Port Caleb,Iowa,United States,Midwest,Leah Wallace
+82,Radiant Corner,Distribution Center,2020-12-23,72488 Santos Streets Port Jeffreyville  DC 55001,Davisport,New Hampshire,United States,Northeast,Ashley Suarez
+83,Timeless Hub,Regional Facility,2016-08-24,56798 Gordon Spurs Christyhaven  PW 39220,Lake Michael,Utah,United States,West,Matthew Nelson
+84,Classy Haven,Sorting Hub,2017-09-15,20893 Allen Gardens West Jasonberg  CT 71012,East Amyhaven,Illinois,United States,Midwest,Alexis Hines
+85,Eclectic Haven,Regional Facility,2017-05-23,726 Jessica Burgs Gordonborough  TN 56432,Meredithhaven,Arkansas,United States,South,Amy Frank
+86,Purely Sanctuary,Regional Facility,2021-02-18,PSC 3433  Box 8156 APO AA 53780,New Ronaldport,South Dakota,United States,Midwest,Scott Koch
+87,Serene Merchant,Regional Facility,2017-08-27,746 Edward Wells Jamesfort  RI 26988,South Angelicatown,Alaska,United States,West,Melissa Singleton
+88,Trendy Closet,Distribution Center,2025-06-29,333 Wagner Brook Lake Tracyberg  NC 87669,Vargasfort,Ohio,United States,Midwest,Donald Travis
+89,Artisan Sanctuary,Regional Facility,2017-05-17,116 Leslie Summit Apt. 042 Port Taylor  WI 45225,East Lindsey,New Hampshire,United States,Northeast,Walter West
+90,Happy Emporium,Regional Facility,2018-05-04,5706 Tate Fields Robertton  MP 59150,North Crystal,Nebraska,United States,Midwest,Brandon Combs
+91,Luxe Hub,Distribution Center,2022-01-25,4591 Scott Lane Apt. 385 South Jennifer  KS 24509,Colemanmouth,Minnesota,United States,Midwest,Randy Pugh
+92,Modern Finds,Fulfillment Center,2021-07-17,32840 Howe Street Apt. 364 East Aprilbury  MS 76641,Port Maxwellburgh,Wyoming,United States,West,Betty Anderson
+93,Harmony Boutique,Distribution Center,2024-02-01,983 Robert Fall Suite 068 Schwartzport  AL 15917,Port Kevinburgh,Florida,United States,South,Jaime Allen
+94,Rustic Shoppe,Sorting Hub,2023-01-19,23452 Jessica Burgs Apt. 805 West Keithview  NY 62800,Santiagoville,Alaska,United States,West,Erica Brown
+95,Serene Corner,Sorting Hub,2025-08-14,87723 Cunningham Corners Ericbury  WV 66909,Phillipbury,Indiana,United States,Midwest,Jasmine Cook
+96,Modern Elegance,Fulfillment Center,2023-01-28,599 Andrew Valleys Lake Lisaview  KS 45180,Pagemouth,Rhode Island,United States,Northeast,Jordan Garza
+97,Cozy Nook,Fulfillment Center,2023-04-24,22839 Christensen Track Suite 742 Jorgeberg  CA 93574,Jessicaside,Iowa,United States,Midwest,Daniel Novak
+98,Whimsy Loft,Regional Facility,2017-07-06,25822 Banks Brook Clarkchester  SD 13440,Lake Scottfurt,Ohio,United States,Midwest,Kristina Smith
+99,Serene Treasures,Regional Facility,2025-06-08,4106 Javier Highway Smithview  NV 45920,Port Stephanie,Idaho,United States,West,Charles Glenn
+100,Polished Vault,Regional Facility,2018-02-26,865 Felicia Lakes Gonzalezmouth  IA 14113,Buckmouth,Alabama,United States,South,Katie Reynolds

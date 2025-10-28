@@ -1,0 +1,101 @@
+EquipmentID,EquipmentName,EquipmentTypeID,Brand,PowerRating,MaintenanceCycleDays
+1,Maintenance Robot,4,Siemens,8.7,30
+2,Forklift,3,Dematic,6.5,30
+3,Forklift,3,Dematic,6.0,45
+4,Crane,3,Cognex,1.6,45
+5,Conveyor Belt,1,Cognex,9.6,45
+6,Maintenance Robot,4,Honeywell,8.2,45
+7,Weighing Scale,7,Daifuku,1.8,45
+8,Maintenance Robot,4,Cognex,4.9,60
+9,Forklift,3,ABB,6.8,45
+10,Weighing Scale,7,Daifuku,4.7,30
+11,Pallet Jack,3,Siemens,5.0,60
+12,Automated Sorter,2,Cognex,9.0,45
+13,Robotic Arm,4,Cognex,4.3,45
+14,Weighing Scale,7,Daifuku,9.5,30
+15,Barcode Scanner,6,Honeywell,1.7,30
+16,Automated Sorter,2,Siemens,9.0,15
+17,Automated Sorter,2,Honeywell,5.9,45
+18,Conveyor Belt,1,Bosch Rexroth,4.7,15
+19,Crane,3,ABB,2.5,15
+20,Crane,3,Dematic,7.9,45
+21,Automated Sorter,2,Dematic,7.1,60
+22,Weighing Scale,7,Bosch Rexroth,9.7,30
+23,AGV (Automated Guided Vehicle),4,Siemens,2.1,30
+24,Crane,3,Daifuku,6.5,60
+25,Stretch Wrapper,5,Bosch Rexroth,2.3,30
+26,Forklift,3,Honeywell,7.8,45
+27,Palletizer,5,Dematic,9.2,60
+28,Maintenance Robot,4,Bosch Rexroth,5.6,45
+29,Automated Sorter,2,Cognex,7.6,15
+30,Robotic Arm,4,Daifuku,6.9,45
+31,Crane,3,Daifuku,3.9,60
+32,Pallet Jack,3,Cognex,2.5,15
+33,Maintenance Robot,4,ABB,7.8,45
+34,AGV (Automated Guided Vehicle),4,Siemens,5.7,15
+35,Conveyor Belt,1,Bosch Rexroth,5.8,60
+36,Barcode Scanner,6,Bosch Rexroth,8.3,60
+37,Stretch Wrapper,5,Honeywell,10.0,60
+38,Dock Leveler,7,ABB,8.2,45
+39,Weighing Scale,7,Siemens,3.7,15
+40,Weighing Scale,7,ABB,4.5,15
+41,Automated Sorter,2,ABB,4.2,30
+42,Automated Sorter,2,Dematic,7.1,15
+43,Material Lift,3,Cognex,8.1,60
+44,Dock Leveler,7,Bosch Rexroth,4.6,15
+45,Stretch Wrapper,5,Bosch Rexroth,5.5,30
+46,Dock Leveler,7,Dematic,5.3,15
+47,Forklift,3,Bosch Rexroth,4.3,45
+48,AGV (Automated Guided Vehicle),4,Honeywell,3.3,30
+49,Weighing Scale,7,Honeywell,3.9,15
+50,AGV (Automated Guided Vehicle),4,Cognex,8.3,15
+51,Stretch Wrapper,5,Honeywell,3.6,60
+52,Pallet Jack,3,Dematic,6.6,45
+53,Weighing Scale,7,Siemens,1.8,15
+54,Pallet Jack,3,Honeywell,4.6,45
+55,Automated Sorter,2,Daifuku,3.6,30
+56,Barcode Scanner,6,Bosch Rexroth,9.9,45
+57,Material Lift,3,Honeywell,2.3,15
+58,AGV (Automated Guided Vehicle),4,Daifuku,2.3,60
+59,Weighing Scale,7,Daifuku,7.1,45
+60,Dock Leveler,7,Honeywell,9.6,45
+61,Dock Leveler,7,Dematic,3.8,30
+62,Crane,3,Cognex,9.3,15
+63,Dock Leveler,7,Daifuku,7.3,15
+64,Forklift,3,Siemens,1.8,30
+65,Automated Sorter,2,Daifuku,1.9,30
+66,Forklift,3,Siemens,4.0,60
+67,Forklift,3,Bosch Rexroth,4.3,15
+68,AGV (Automated Guided Vehicle),4,Siemens,6.4,15
+69,Material Lift,3,Bosch Rexroth,4.1,15
+70,Material Lift,3,Daifuku,3.3,45
+71,Barcode Scanner,6,Bosch Rexroth,8.8,45
+72,Forklift,3,Cognex,7.4,15
+73,Crane,3,Siemens,4.8,15
+74,Forklift,3,Cognex,8.9,15
+75,Barcode Scanner,6,Daifuku,3.6,60
+76,Automated Sorter,2,Siemens,3.8,60
+77,Crane,3,Bosch Rexroth,4.4,45
+78,Dock Leveler,7,ABB,5.1,60
+79,Material Lift,3,ABB,10.0,60
+80,Pallet Jack,3,Bosch Rexroth,5.5,60
+81,Conveyor Belt,1,Bosch Rexroth,2.9,45
+82,Robotic Arm,4,Honeywell,5.5,30
+83,Robotic Arm,4,Bosch Rexroth,5.9,30
+84,Forklift,3,Dematic,4.9,30
+85,Packaging Machine,5,ABB,2.1,30
+86,Automated Sorter,2,Siemens,5.2,30
+87,Maintenance Robot,4,Bosch Rexroth,4.7,15
+88,Packaging Machine,5,Cognex,9.5,60
+89,Dock Leveler,7,Cognex,4.2,30
+90,Material Lift,3,ABB,6.3,15
+91,Automated Sorter,2,Dematic,8.7,15
+92,Crane,3,Honeywell,2.0,45
+93,Material Lift,3,Honeywell,9.4,45
+94,Stretch Wrapper,5,Cognex,2.0,30
+95,Maintenance Robot,4,Siemens,5.4,30
+96,Automated Sorter,2,Siemens,3.3,60
+97,Crane,3,Daifuku,6.6,45
+98,Palletizer,5,ABB,3.9,60
+99,Automated Sorter,2,Honeywell,9.8,15
+100,Packaging Machine,5,Cognex,1.5,15
