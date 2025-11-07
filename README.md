@@ -30,6 +30,7 @@ The dashboard helps answer key operational questions like:
 ---
 
 ## 🔄 Data Pipeline Flow  
+##### Python CSV Generators → Snowflake Stages → Snowflake Tables → Power BI Dashboard
 
 
 ### 1️⃣ **Data Generation**
@@ -50,6 +51,12 @@ team_name = random.choice([
     'East Zone Technicians',
     'Warehouse Automation Team'
 ])
+```
+### 2️⃣ **Data Loading into Snowflake**
+All generated CSV files were first uploaded into Snowflake stages using the PUT command, then loaded into respective tables using COPY INTO.
+
+Example SnowSQL commands:
+```python
 
 -- Step 1: Upload CSV to Stage
 PUT 'file:///Users/yashghorpade/Documents/DHL_MHE_EndToEndProject/OneTimeLoad/DimWarehouse/dim_warehouse.csv'
@@ -73,4 +80,48 @@ COPY INTO DimWarehouse (
 FROM @TEST_DB.TEST_DB_SCHEMA.TESTSTAGE/dim_warehouse/dim_warehouse.csv
 FILE_FORMAT = (FORMAT_NAME = 'CSV_SOURCE_FILE_FORMAT');
 
+```
+<p align="center">
+    <img src="Images/Snowsql_commands.png" alt="Put Commands" width="549"/>
+    <img src="Images/Snowflake.png" alt="Put Commands" width="458"/>
+</p>
 
+---
+
+## 🗂️ Database Schema (ERD)
+
+The database follows a Star Schema model with one fact table and multiple dimensions.
+
+**FactPerformance** — Central fact table storing operational metrics (uptime, downtime, throughput, cost)
+
+**DimWarehouse** — Warehouse details and location hierarchy
+
+**DimEquipmentType** — Equipment categories and capacities
+
+**DimEquipment** — Equipment-level details linked to type
+
+**DimMaintenance** — Maintenance teams, shifts, and technicians
+
+**DimDate** — Time dimension for temporal analysis
+
+<p align="left">
+    <img src="Images/ERD.png" alt="Erd" width="800"/>
+</p>
+
+---
+
+## 📈 Power BI Dashboard Overview
+
+Dashboard Link: 🔗 View Power BI Dashboard (https://shorturl.at/4m3V2)
+
+The Power BI report consists of **four interactive pages**, with navigation buttons and bookmarks for smooth transitions.
+
+<p align="center">
+    <img src="Images/Dashboard Overview.jpeg" alt="Overview Page" width="500"/>
+    <img src="Images/Dashboard Trends.jpeg" alt="Trends Page" width="495"/>
+</p>
+
+<p align="center">
+    <img src="Images/Dashboard Maintenance.jpeg" alt="Maintenance dash" width="500"/>
+    <img src="Images/Dashboard Warehouses.jpeg" alt="Warehouses Page" width="500"/>
+</p>
