@@ -112,7 +112,7 @@ The database follows a Star Schema model with one fact table and multiple dimens
 
 ## 📈 Power BI Dashboard Overview
 
-Dashboard Link: 🔗 View Power BI Dashboard (https://shorturl.at/4m3V2)
+Dashboard Link: 🔗 View Power BI Dashboard (https://shorturl.at/4m3V2) (https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiZjg1NmZkYjEtN2JkNy00ODk4LTg4YTQtNzEyNTljYjAxZTBiIiwidCI6ImZlMjY1YTIyLTRiZmItNGEyOS1hMzg5LTBhY2Y3NWQ1NGM3ZiIsImMiOjF9%26pageName%3De80f76dc7461c9a9d520&urlhash=9npw&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWRIXa%2BxzS6CCDYD13vo53Q%3D%3D)
 
 The Power BI report consists of **four interactive pages**, with navigation buttons and bookmarks for smooth transitions.
 
